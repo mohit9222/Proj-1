@@ -41,57 +41,59 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        I spearheaded transformative efforts to drive innovation, launch new
-        products, and enhance existing services. With a relentless focus on
-        delivering exceptional customer experiences, I led cross-functional
-        teams through every stage of the project lifecycle, from ideation to
-        successful implementation.
+        As a seasoned Program Manager, I have spearheaded capital and expense
+        planning initiatives across all departments within my organization,
+        driving efficiency and transparency in financial management processes.
+        By introducing effective processes and leveraging technology, I
+        successfully reduced manual processes by an impressive 80%, resulting in
+        significant time and cost savings.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Drawing on my extensive experience in program management, I collaborated
-        closely with product, security, and technology teams to ensure the
-        seamless execution of projects. By fostering a culture of collaboration
-        and innovation, I leveraged agile principles to drive efficiency,
-        adaptability, and continuous improvement.
+        My meticulous attention to detail and commitment to excellence were
+        highly appreciated as I set up these processes, ensuring accuracy,
+        reliability, and compliance with organizational policies and
+        regulations. Utilizing metrics to track and display budget and expenses,
+        I provided leadership with real-time insights into financial
+        performance, enabling informed decision-making and resource allocation.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Through strategic vendor partnerships and contract negotiations, I
-        optimized vendor relationships and service level agreements (SLAs) to
-        align with our business objectives and customer needs. Passionate about
-        working on projects end-to-end, I prioritized customer-centricity,
-        ensuring that every initiative was tailored to meet and exceed customer
-        expectations.
+        To secure budget approvals, I wrote compelling business case studies
+        that clearly articulated the value proposition and return on investment
+        of proposed initiatives. By effectively communicating the financial
+        implications and strategic importance of these projects, I garnered
+        support from stakeholders and facilitated alignment with organizational
+        goals.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        In this role, I actively engaged with security teams to identify
-        vulnerabilities and design robust solutions to mitigate risks and
-        safeguard our systems and data. With a strong understanding of ISO
-        product management principles, I implemented best practices to ensure
-        quality, security, and compliance across our product portfolio.
+        In addition to my role in financial management, I actively engaged with
+        leadership, vendors, and stakeholders to ensure alignment of priorities
+        and foster collaborative partnerships. By building strong relationships
+        and facilitating open communication, I facilitated smooth execution of
+        projects and initiatives, driving positive outcomes for the
+        organization.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Proficient in tools such as Power BI and Jira, I utilized data-driven
-        insights and agile methodologies to drive informed decision-making and
-        streamline project management processes. By participating in tech
-        reviews and staying abreast of industry trends, I remained at the
-        forefront of technological innovation, driving forward-thinking
-        solutions that propelled towards success.
+        My experience in capital and expense planning underscores my ability to
+        drive operational excellence and deliver measurable results through
+        effective financial management strategies. I am passionate about
+        leveraging my expertise to drive value and innovation in every project I
+        undertake.
       </motion.p>
 
       {/* <div className="mt-20 flex flex-wrap gap-10">
